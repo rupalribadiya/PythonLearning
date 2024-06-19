@@ -1,0 +1,5 @@
+Hi, Good Morning!
+My Name is Rupal.
+I am a web developer at Vision Infotech.
+Currently, I am learning python.
+So I am creating this file to learn how to read data from file and how to write data into file.

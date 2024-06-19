@@ -1,5 +1,6 @@
 import pyodbc
 
+
 # Define your connection parameters
 server = 'VSL-003\SQLEXPRESS'  # e.g., 'localhost\SQLEXPRESS'
 database = 'testDB'
